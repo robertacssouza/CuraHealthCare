@@ -68,11 +68,3 @@ Clicking on the button to book an appointment
     sleep               1
 
 
-  #  Customers.Click Add Customer Link
-  #  AddCustomer.Verify Page Loaded
- #   AddCustomer.Add New Customer
- #   Customers.Verify Customer Added Successfully
-
-#Sign Out
- #   TopNav.Click "Sign Out" Link
- #   LoggedOut.Verify Page Loaded
